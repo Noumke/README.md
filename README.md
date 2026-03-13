@@ -1,39 +1,75 @@
-Bonjour ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m’appelle Ibrahima Touré
-=======================================================================================================================================
+# Bonjour ! 👋 Je m'appelle Ibrahima Touré
 
-BUT Data Science | Futur Data Engineer | IUT Aurillac
-------------------------------------------------------
+### BUT Data Science | Futur Data Engineer | IUT Aurillac
 
-Actuellement en deuxième année de BUT Science des données, parcours Visualisation et conception d’outils décisionnels, je développe des compétences en Python, SQL, R et Java. Je travaille également avec des outils de développement comme JavaScript, Django et les API.
+Actuellement en deuxième année de BUT Science des données, parcours Visualisation et conception d'outils décisionnels, je développe des compétences en Python, SQL, R et Java. Je travaille également avec des outils de développement comme JavaScript, Django et les API.
 
-J’estime être en mesure de vous aider dans toutes vos tâches liées à la data.
+J'estime être en mesure de vous aider dans toutes vos tâches liées à la data.
 
 Je possède également des connaissances sur le RGPD et la protection des données, afin de traiter les données conformément aux bonnes méthodes et aux réglementations en vigueur.
 
-* 🌍 Je suis basé à Aurillac, en France
-* 🖥️ Voir mon portfolio à [Lien : https://github.com/Noumke/Portfolio-Projets-DataScience](http://Lien : https://github.com/Noumke/Portfolio-Projets-DataScience)
-* ✉️ Vous pouvez me contacter à [ibf.toure@gmail.com](mailto:ibf.toure@gmail.com)
+- 🌍 Je suis basé à **Aurillac, en France**
+- 🖥️ Voir mon portfolio : [github.com/Noumke/Portfolio-Projets-DataScience](https://github.com/Noumke/Portfolio-Projets-DataScience)
+- ✉️ Me contacter : **ibf.toure@gmail.com**
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170 » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg » alt="C » title="C » largeur="36 » hauteur="36 » /></a><a href="https://www.oracle.com/java/ » target="_blank » rel="noreferrer"><img src= » https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg » alt="Java » title="Java » width="36 » height="36 » /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg » alt="JavaScript » title="JavaScript » width="36 » hauteur="36 » /></a><a href="https://www.r-project.org/ » cible="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg » alt="rlang » title="rlang » width="36 » hauteur="36 » /></a><a href="https://www.python.org/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg » alt="Python » title="Python » width="36 » height="36 » /></a><a href="https://git-scm.com/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg » alt="Git » title="Git » width="36 » height="36 » /></a><a href="https://www.gnu.org/software/bash/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg » alt="GNU Bash » title="GNU Bash » width="36 » height="36 » /></a><a href="https://code.visualstudio.com/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg » alt="VS Code » title="VS Code » width="36 » hauteur="36 » /></a><a href="https://nodejs.org/en/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg » alt="NodeJS » title="NodeJS » width="36 » hauteur="36 » /></a> <a href="https://fastapi.tiangolo.com/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg » alt="Fast API » title="Fast API » width="36 » height="36 » /></a><a href="https://www.postgresql.org/ » target="_blank » rel="noreferrer"><img src= » https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg » alt="PostgreSQL » titre « PostgreSQL » largeur="36 » hauteur="36 » /></a><a href="https://www.mysql.com/ » cible="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg » alt="MySQL » titre="MySQL » largeur="36 » hauteur="36 » /></a> <a href="https://www.linux.org » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg » alt="Linux » title="Linux » width="36 » hauteur="36 » /></a><a href="https://apple.com » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg » alt="MacOS » title="MacOS » width="36 » hauteur="36 » /></a><a href="https://ubuntu.com/ » target="_blank » rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg » alt="Ubuntu » title="Ubuntu » largeur="36 » hauteur="36 » /></a><a href="https://www.djangoproject.com/ » target="_blank » rel="noreferrer"><img src= » https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg » alt="Django » titre = « Django » largeur="36 » hauteur="36 » /></a>
-<a href="https://www.github.com/Noumke » target="_blank » rel="noreferrer">
-< photo >
-<source media="(prefers-color-scheme : dark) » srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg » />
-<source media="(prefers-color-scheme : light) » srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg » />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg » width="32 » height="32 » alt="GitHub » title="GitHub » />
-</photo>
-</a> <a href="https://www.linkedin.com/in/in/ibrahima-toure-984934326/ » target="_blank » rel="noreferrer"> < photo > <source media="(préfère-color-scheme : dark) » srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg » /> <source media="(préfère-color-scheme : light) » srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg » /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg » largeur="32 » hauteur="32 » alt="LinkedIn » titre="LinkedIn » /> </photo> </a>
-<a href="https://www.github.com/Noumke » target="_blank » rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Noumke?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917 » /></a>
-### Badges
+---
 
-<b>Mes statistiques sur GitHub</b>
+### 🛠️ Compétences
 
-<a href="http://www.github.com/Noumke"><img src="https://github-readme-stats.vercel.app/api?username=Noumke&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true » alt="Noumke’s GitHub stats » /></a>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" title="R"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" title="Django"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" title="Ubuntu"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/>
+  </a>
+</p>
 
-<a href="http://www.github.com/Noumke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noumke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true » /></a>
+---
 
-<a href="https://github.com/Noumke » align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noumke&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages » alt="Top Languages » /></a>
+### 📊 GitHub Stats
 
-<b>Principaux dépôts </b>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noumke&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Stats GitHub Noumke"/>
+</p>
 
-<div width="100 % » align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noumke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noumke&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Langages%20principaux"/>
+</p>
